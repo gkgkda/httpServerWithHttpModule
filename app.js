@@ -15,7 +15,6 @@ const users = [
     password: "password",
   },
 ];
-// commit 테스트 
 
 const posts = [
   {
